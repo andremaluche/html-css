@@ -1,2 +1,2 @@
 # html-css
- Exerccícios do CursoemVideo
+ Exercícios do CursoemVideo
